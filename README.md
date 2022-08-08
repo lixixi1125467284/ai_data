@@ -2,6 +2,10 @@
 [Github-项目数据集](#Github-项目数据集)
 
 [天池数据集](#天池数据集)
+
+[Kaggle数据集](#Kaggle数据集)
+
+
 ### Github-项目数据集
 * [Yelp极性审查数据集 *CSV*](https://course.fast.ai/datasets)
 * [1997年互联网用户的一般人口统计信息数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Internet+Usage+Data)
@@ -490,3 +494,8 @@
 * [太阳耀斑数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Solar+Flare)
 
 ### 天池数据集
+
+
+
+
+### Kaggle数据集
