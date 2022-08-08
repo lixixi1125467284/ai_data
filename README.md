@@ -385,7 +385,6 @@
 * [Cargo 2000(C2K)包含5个月航空运输业务跟踪记录的数据集 *CSV*](https://archive.ics.uci.edu/ml/datasets/Cargo+2000+Freight+Tracking+and+Tracing)
 * [多社交媒体平台中的新闻流行度的数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/News+Popularity+in+Multiple+Social+Media+Platforms)
 * [伪周期合成时间序列数据集 *CSV*](https://archive.ics.uci.edu/ml/datasets/Pseudo+Periodic+Synthetic+Time+Series)
-* [一大组猫和狗的图片数据集 *Image, CSV*](https://www.kaggle.com/c/petfinder-adoption
 * [碳纳米管数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Carbon+Nanotubes)
 * [失物招领道路危险（这些障碍物通常是由丢失的货物引起的）数据集 *Image*](http://www.6d-vision.com/lostandfounddataset)
 * [PAMAP2活动监测数据集包含18种不同活动的数据，包含9名佩戴3个惯性测量装置和心率监测器的受试者的数据 *CSV*](http://archive.ics.uci.edu/ml/datasets/PAMAP2+Physical+Activity+Monitoring)
