@@ -1,7 +1,8 @@
 ### 机器学习 深度学习数据集
-[Github-项目](#Github-项目)
+[Github-项目数据集](#Github-项目数据集)
+
 [天池数据集](#天池数据集)
-### Github-项目
+### Github-项目数据集
 * [Yelp极性审查数据集 *CSV*](https://course.fast.ai/datasets)
 * [1997年互联网用户的一般人口统计信息数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Internet+Usage+Data)
 * [blocksworld、eightpuzzle和schedworld等各种域数据集](http://archive.ics.uci.edu/ml/datasets/Prodigy)
