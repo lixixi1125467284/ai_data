@@ -1,6 +1,3 @@
-### 机器学习数据集  深度学习数据集
-### github-项目
-
 * [Yelp极性审查数据集 *CSV*](https://course.fast.ai/datasets)
 * [1997年互联网用户的一般人口统计信息数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Internet+Usage+Data)
 * [blocksworld、eightpuzzle和schedworld等各种域数据集](http://archive.ics.uci.edu/ml/datasets/Prodigy)
@@ -238,7 +235,6 @@
 * [伊朗国家电视台播放的一场危险游戏中收集的波斯问题数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/University+of+Tehran+Question+Dataset+2016+%28UTQD.2016%29)
 * [利用决策树归纳，以减轻凹版印刷中被称为“滚筒带”的过程延迟 *CSV*](http://archive.ics.uci.edu/ml/datasets/Cylinder+Bands)
 * [PPG-DaLiA: 基于PPG的心率估计数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/PPG-DaLiA)
-* [使用目录分开的通用图像分类数据集 *Image*](None)
 * [包含周期时间、内存大小等的关联CPU性能数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Computer+Hardware)
 * [CLEVR是一个测试一系列视觉推理能力的诊断数据集 *Image*](https://cs.stanford.edu/people/jcjohns/clevr/)
 * [钢退火数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Annealing)
@@ -369,7 +365,6 @@
 * [帕金森病分类数据集 *CSV*](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification)
 * [混凝土抗压强度数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength)
 * [e-SNLI：自然语言推理与自然语言解释](https://github.com/OanaMariaCamburu/e-SNLI)
-* [印度贾达夫普尔大学，手写孟加拉语、天成、泰卢固语数字图片数据集 *Image*](None)
 * [结核分枝杆菌中每个ORF（潜在基因）的特征数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/M.+Tuberculosis+Genes)
 * [成年人自闭症谱系障碍筛查数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Autism+Screening+Adult)
 * [助教评价数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Teaching+Assistant+Evaluation)
@@ -489,4 +484,3 @@
 * [DEXTER一个词包表示的文本分类问题数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Dexter)
 * [Librispeech语言建模数据集 *CSV*](http://www.openslr.org/11)
 * [太阳耀斑数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Solar+Flare)
-
