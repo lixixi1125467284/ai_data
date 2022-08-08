@@ -1,5 +1,5 @@
 ### 机器学习数据集  深度学习数据集
-### 癌症
+### 癌症 疾病
 * [8类彩色结直肠癌组织照片数据集 *Image*](https://zenodo.org/record/53169#.XGZemKwzbmG)
 * [乳腺癌数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer)
 * [原始威斯康星乳腺癌数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29)
