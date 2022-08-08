@@ -242,7 +242,6 @@
 * [包含周期时间、内存大小等的关联CPU性能数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Computer+Hardware)
 * [CLEVR是一个测试一系列视觉推理能力的诊断数据集 *Image*](https://cs.stanford.edu/people/jcjohns/clevr/)
 * [钢退火数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Annealing)
-* [一大组猫和狗的图片数据集 *Image, CSV*](https://www.kaggle.com/c/petfinder-adoption-prediction/data)
 * [包括来自拉斯维加斯大道21家酒店在线评论的定量和分类特征的数据集 *CSV*](https://archive.ics.uci.edu/ml/datasets/Las+Vegas+Strip)
 * [人员活动数据集 *CSV*](http://archive.ics.uci.edu/ml/datasets/Localization+Data+for+Person+Activity)
 * [西班牙两所大学的教员使用维基百科用于教学的调查 *CSV*](http://archive.ics.uci.edu/ml/datasets/wiki4HE)
